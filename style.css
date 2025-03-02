@@ -1,0 +1,49 @@
+
+/* Styles del titulo */
+header {
+    text-align: center;
+    font-size: 30px;
+    color: #ee0a30;;
+    display: flex;
+    margin-top: 2px;
+  }
+  
+/* Style del fondo */
+  main, html {
+    margin: 0;
+    padding: 0;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#b0c2f2;
+  }
+  
+  /* Style opciones primer boton añadir */
+    .button {
+    padding: 10px 20px;
+    margin: 70px;
+    font-size: 24px;
+    border: none;
+    background-color: #ac34db;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+    
+  .button:hover {
+    background-color: #2980b9;
+  }
+/* Style opciones segundo boton eliminar */
+  .button1 {
+    padding: 10px 20px;
+    margin: 70px;
+    font-size: 24px;
+    border: none;
+    background-color: #ac34db;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+    
+  .button1:hover {
+    background-color: #2980b9;
+  }

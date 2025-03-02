@@ -1,1 +1,1 @@
-programa correspondiente al día seis del desafio diario, que me permite ingresar y aleiminar un nombre de un array llamado vendedores
+En este sexto día del desafio se ha creado un programa que me permite ingresar o leiminar un nombre a un arreglo
